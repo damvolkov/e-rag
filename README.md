@@ -1,5 +1,5 @@
-<p align="center">
-  <img src="assets/logo.svg" alt="e-rag" width="220" />
-</p>
-
 # e-rag
+
+<p align="center">
+  <img src="assets/logo.svg" alt="e-rag" height="110" />
+</p>
